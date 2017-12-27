@@ -220,6 +220,7 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 * [Panamax](https://github.com/CenturyLinkLabs/panamax-ui) :skull: - An open-source project that makes deploying complex containerized apps as easy as Drag-and-Drop by [@CenturyLinkLabs][CenturyLinkLabs].
 * [Rancher](https://github.com/rancher/rancher) - An open source project that provides a complete platform for operating Docker in production by [@rancher][rancher].
 * [Swarmpit](https://github.com/swarmpit/swarmpit) - Lightweight Docker Swarm orchestration. Swarmpit provides clean way to manage your Docker Swarm cluster with various handful features such Service management, smart search, shared access and private registries.
+* [Slug StatefulSet autoscaler](https://github.com/Tedezed/slug-containers/tree/master/statefulset_autoscaler) - Provisional solution to be able to automatically scale a set of StatefulSet. See support at https://github.com/Tedezed/slug-containers
 
 ### PaaS
 
@@ -270,6 +271,7 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 * [istio](https://github.com/istio/istio) - An open platform to connect, manage, and secure microservices by [@IstioMesh](istio)
 * [proxy](https://github.com/factorish/proxy) :skull: - lightweight nginx based load balancer self using service discovery provided by registrator. by [@factorish](https://github.com/factorish)
 * [registrator](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker by [@gliderlabs][gliderlabs] and [@progrium][progrium]
+* [Slug emailing](https://github.com/Tedezed/slug-containers/tree/master/emailing) - Solution to send emails in the cloud and avoid blocking ports (25) by default. See support at https://github.com/Tedezed/slug-containers
 
 ### Volume Management / Data
 
@@ -283,6 +285,7 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 * [portworx](https://portworx.com) :heavy_dollar_sign: - Decentralized storage solution for persistent, shared and replicated volumes.
 * [REX-Ray](https://github.com/thecodeteam/rexray) Vendor agnostic storage orchestration engine to provide persistent storage for Docker containers as well as Mesos frameworks and tasks. By[@Dell](https://github.com/thecodeteam)
 * [quobyte](https://www.quobyte.com/) :heavy_dollar_sign: - fully fault-tolerant distributed file system with a docker volume driver
+* [Slug backup/snapshot](https://github.com/Tedezed/slug-containers/tree/master/backup-db-cron) - Automatic snapshots and backups of databases. See support at https://github.com/Tedezed/slug-containers 
 
 ### User Interface
 
